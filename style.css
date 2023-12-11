@@ -1,0 +1,94 @@
+.logo2{
+    
+    border-radius: 10px;
+    background:rgb(139, 48, 224);
+    margin:80px 0 175px 0;
+    height:200px;
+    width:200px;
+    color:rgb(139, 48, 224);
+    
+}    
+.logo1{
+    background:rgb(255, 0,0 );
+    color:rgb(255, 0,0 );
+    height:125px;
+    width:300px;
+    border-radius: 30px;
+    margin: 80px 0 0 575px;
+    
+} 
+.logo3{
+    border-radius: 100px;
+    background:rgb(118, 118, 118);   
+    height:200px;
+    width:200px;
+    margin: -370px 0 800px 230px;
+    color:rgb(255, 255, 255);; 
+}
+.logo4{
+    border-radius: 100px;
+    background:rgb(0, 110, 0);
+    height:200px;
+    width:200px;
+    margin: -1220px 220px 500px 0;
+    color:rgb(255, 255, 255);
+    
+}  
+.logo5{
+       
+    border-radius: 0 0 0 220px;
+    background:rgb(138, 226, 138);
+    height:200px;
+    width:200px;
+    margin: -695px 400px 500px  220px;
+    color:rgb(138, 226, 138);
+    
+}
+.logo6{
+    border-radius: 200px 200px 20px 20px;
+    background:orange;
+    height:102.5px;
+    width:205px;
+    margin-top:-600px;
+    margin-bottom:770px;
+    margin-right:200px;
+    margin-left:1000px;
+    color:white;
+    
+}  
+.logo7{
+    border-radius: 200px 20px 20px 200px;
+    background:rgb(0,255,0);
+    height:200px;
+    width:102.5px;
+    margin : -755px 200px 500px 1102px ;
+    color:rgb(255, 255, 255);
+    
+} 
+.logo8{
+    border-radius: 20px 20px 200px 200px;
+    background:rgb(0, 0,255 );
+     height:102.5px;
+    width:205px ;
+    margin: -706px 200px 500px 1210px;
+    color:rgb(0, 0,255 );
+    
+} 
+.logo9{
+    border-radius:20px 200px 200px 20px;
+    background:rgb(255, 0,0 );
+    height:205px;
+    width:102.5px;
+    margin:-816px 200px 500px 1210px;
+    color:rgb(255, 0,0 );
+    
+}
+.logo10{
+        
+    border-left:50px solid white;
+    border-top:25px solid transparent;
+    border-bottom:25px solid transparent; 
+    width:0px;
+    margin-left:710px;
+    margin-top:-680px;
+}  
